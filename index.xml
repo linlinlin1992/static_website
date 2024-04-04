@@ -32,7 +32,53 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="import-the-notebooks-into-your-site">Import the notebooks into your site&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">pipx install academic
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">academic import &lt;span class="s1">&amp;#39;notebooks/**.ipynb&amp;#39;&lt;/span> content/post/ --verbose
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code>content/post/&lt;/code> folder.&lt;/p></description></item><item><title>实验室资源导航</title><link>https://example.com/resources/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://example.com/resources/</guid><description>&lt;h3 id="网盘-httpswplwzone-or-httpswlwzone">网盘： &lt;a href="https://wp.lwz.one" target="_blank" rel="noopener">https://wp.lwz.one&lt;/a> or &lt;a href="https://w.lwz.one" target="_blank" rel="noopener">https://w.lwz.one&lt;/a>&lt;/h3>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code>content/post/&lt;/code> folder.&lt;/p></description></item><item><title>加入我们</title><link>https://example.com/joinus/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://example.com/joinus/</guid><description>&lt;p>本实验室常年诚招有学术追求和想法的本科生与研究生加入我们的团队！&lt;/p>
+&lt;p>实验室线下地点：江西师范大学&lt;/p>
+&lt;p>联系邮箱： &lt;a href="lin.wenzheng@aliyun.com">lin.wenzheng@aliyun.com&lt;/a>&lt;/p>
+&lt;p>实验室研究领域和兴趣可参考&lt;a href="https://home.lwz.one/#about" target="_blank" rel="noopener">主页&lt;/a>。&lt;/p>
+&lt;h1 id="研究生招募">研究生招募&lt;/h1>
+&lt;h3 id="要求">要求&lt;/h3>
+&lt;ul>
+&lt;li>地球人（正常）&lt;/li>
+&lt;li>有编程能力者优先（统计R语言及实验程序使用jspsych/初级javascript）&lt;/li>
+&lt;li>英语能力优秀者优先&lt;/li>
+&lt;li>加分项：拥有其他人类美好品质如&lt;em>谦逊&lt;/em>、善良、乐观、勤奋、乐于助人等&lt;/li>
+&lt;li>扣分项：不遵守 dead line；把老师的话当耳旁风（待补充）&lt;/li>
+&lt;/ul>
+&lt;h3 id="学习工作说明">学习工作说明&lt;/h3>
+&lt;ul>
+&lt;li>实验室有一定学术追求，相对其他实验室任务会更重一些&lt;/li>
+&lt;li>研一期间学期内要求每周至少汇报一篇英文文献&lt;/li>
+&lt;li>从研一开始就进行研究工作，在老师指导下收集、分析研究数据&lt;/li>
+&lt;li>在老师、学长学姐的指导下，尽快初步掌握jspsych及心理学使用的统计原理和方法，包括但不限于GLM、MLM、basic SEM、meta analysis等&lt;/li>
+&lt;li>关于上条的补充性解释：统计部分目前老师自己有上这个课；jspsych 代码结构简单，类似inquisit，有难度部分老师可以一起研究&lt;/li>
+&lt;li>研一结束时应初步确定毕业论文题目，完成预实验及研究一的数据收集&lt;/li>
+&lt;li>研二要求拟定中……&lt;/li>
+&lt;li>研三……抓紧毕业&lt;/li>
+&lt;/ul>
+&lt;h1 id="本科生招募">本科生招募&lt;/h1>
+&lt;ul>
+&lt;li>基础要求同研究生&lt;/li>
+&lt;li>本校符合条件同学推荐加入“社会、经济与管理人才班”（可能是这个名字，太长了记不住）&lt;/li>
+&lt;li>希望大家从大一大二时就参加例会和实验室研究，积累研究经历和成果&lt;/li>
+&lt;li>优先接收非毕业年级同学指导毕业论文，于大三下学期（双专业同学为大三上）之前完成数据收集&lt;/li>
+&lt;/ul>
+&lt;h2 id="福利">福利&lt;/h2>
+&lt;ul>
+&lt;li>基本等于没有；疫情缓和期间可能会一起吃吃喝喝&lt;/li>
+&lt;li>不是福利的福利：两周一次与武大同门举办的联合组会&lt;/li>
+&lt;li>老师目前是一个品德正直的人&lt;/li>
+&lt;li>组内人际氛围相对比较轻松&lt;/li>
+&lt;li>如果同学们能带老师申上国家级基金，就应该有劳务费等经费支持了&lt;/li>
+&lt;li>接上条，能力强的同学，待遇、称呼参照邹老师实验室标准执行 &lt;a href="https://www.sohu.com/a/460096461_612784" target="_blank" rel="noopener">https://www.sohu.com/a/460096461_612784&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="加入我们让老师告别头秃">加入我们，让老师告别头秃！&lt;/h3>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="bold.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>实验室资源导航</title><link>https://example.com/resources/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://example.com/resources/</guid><description>&lt;h3 id="网盘-httpswplwzone-or-httpswlwzone">网盘： &lt;a href="https://wp.lwz.one" target="_blank" rel="noopener">https://wp.lwz.one&lt;/a> or &lt;a href="https://w.lwz.one" target="_blank" rel="noopener">https://w.lwz.one&lt;/a>&lt;/h3>
 &lt;ul>
 &lt;li>直接注册使用；内含例会报告材料（请报告同学及时上传）；办事流程说明（报销、约讨论室等）；实验室使用过的问卷材料；部分数据储存和Jatos系统上传文件夹涉及用户权限须向老师申请。&lt;/li>
 &lt;/ul>
@@ -214,7 +260,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-698731452" class="chart">&lt;/div>
+&lt;div id="chart-612735498" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -223,7 +269,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-698731452', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-612735498', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
