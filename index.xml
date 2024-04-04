@@ -76,7 +76,14 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="bold.jpg" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/joinus/bold_hub3fd98ffc8922a4387a1890b741b6215_202505_5508a3948ddfdcc1f4d2c76e5f3a4749.webp 400w,
+/joinus/bold_hub3fd98ffc8922a4387a1890b741b6215_202505_08529b34b8e85669038e9cfa37678367.webp 760w,
+/joinus/bold_hub3fd98ffc8922a4387a1890b741b6215_202505_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://example.com/joinus/bold_hub3fd98ffc8922a4387a1890b741b6215_202505_5508a3948ddfdcc1f4d2c76e5f3a4749.webp"
+width="570"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>实验室资源导航</title><link>https://example.com/resources/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://example.com/resources/</guid><description>&lt;h3 id="网盘-httpswplwzone-or-httpswlwzone">网盘： &lt;a href="https://wp.lwz.one" target="_blank" rel="noopener">https://wp.lwz.one&lt;/a> or &lt;a href="https://w.lwz.one" target="_blank" rel="noopener">https://w.lwz.one&lt;/a>&lt;/h3>
 &lt;ul>
@@ -260,7 +267,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-612735498" class="chart">&lt;/div>
+&lt;div id="chart-531679284" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -269,7 +276,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-612735498', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-531679284', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
