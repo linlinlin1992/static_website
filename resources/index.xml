@@ -2270,11 +2270,7 @@ apply(bootOut, MARGIN = 2, FUN = quantile, probs = c(.025, .975))
 &lt;h3 id="课程资料测试">课程资料（测试）&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://www.linwz.com/resources/statistics/index.html">统计&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>test html embed</title><link>https://www.linwz.com/resources/statistics/chap2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.linwz.com/resources/statistics/chap2/</guid><description>&lt;iframe src="https://www.linwz.com/moderation_mediation.html"
-height="100%"
-width="100%"
-scrolling="no">&lt;/iframe>
-&lt;!DOCTYPE html>
+&lt;/ul></description></item><item><title>test html embed</title><link>https://www.linwz.com/resources/statistics/chap2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.linwz.com/resources/statistics/chap2/</guid><description>&lt;!DOCTYPE html>
 &lt;html>
 &lt;head>
 &lt;link rel="import" href="https://www.linwz.com/moderation_mediation.html">
