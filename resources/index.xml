@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resources | 社会认知与人格实验室</title><link>https://www.linwz.com/resources/</link><atom:link href="https://www.linwz.com/resources/index.xml" rel="self" type="application/rss+xml"/><description>Resources</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><image><url>https://www.linwz.com/media/icon_hu75f3c8a8dfeb511f4db73a322318d1ea_1517863_512x512_fill_lanczos_center_3.png</url><title>Resources</title><link>https://www.linwz.com/resources/</link></image><item><title>Contents</title><link>https://www.linwz.com/resources/statistics/contents/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://www.linwz.com/resources/statistics/contents/</guid><description>&lt;h3 id="测试">测试&lt;/h3>
+&lt;p>&lt;a href="https://www.linwz.com/resources/">第一章&lt;/a>&lt;/p></description></item><item><title>实验室资源导航</title><link>https://www.linwz.com/resources/lab/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://www.linwz.com/resources/lab/</guid><description>&lt;h3 id="网盘-httpswplwzone-or-httpswlwzone">网盘： &lt;a href="https://wp.lwz.one" target="_blank" rel="noopener">https://wp.lwz.one&lt;/a> or &lt;a href="https://w.lwz.one" target="_blank" rel="noopener">https://w.lwz.one&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>直接注册使用；内含例会报告材料（请报告同学及时上传）；办事流程说明（报销、约讨论室等）；实验室使用过的问卷材料；部分数据储存和Jatos系统上传文件夹涉及用户权限须向老师申请。&lt;/li>
+&lt;/ul>
+&lt;h3 id="teams-链接-social-cognition--personality-labhttpsteamsmicrosoftcomlteam193auamme6kwni50sbx8diy7wiataxqbqfvtsyi8avtjkho140threadtacv2conversationsgroupidb557d371-bd2a-459d-a754-94204c14fb1ftenantida45237dc-3f45-44c3-8315-5bd7a1a73e45">Teams 链接： &lt;a href="https://teams.microsoft.com/l/team/19%3auaMme6kWnI50sbX8diY7WIAtaXqbqFVtsYi8Avtjkho1%40thread.tacv2/conversations?groupId=b557d371-bd2a-459d-a754-94204c14fb1f&amp;amp;tenantId=a45237dc-3f45-44c3-8315-5bd7a1a73e45" target="_blank" rel="noopener">Social cognition &amp;amp; personality lab&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>主要用于项目管理和论文修改；偶尔线上会议也会使用。&lt;/li>
+&lt;li>教育账户注册使用这个链接&lt;a href="https://www.microsoft.com/zh-cn/education/products/office" target="_blank" rel="noopener">【点击这里】&lt;/a>。需要使用域名带edu的邮箱注册，可以享受微软的一些免费服务，加入群组可以作为成员。当然，以来宾方式加入的区别暂时也不太大。&lt;/li>
+&lt;/ul>
+&lt;h3 id="jatos-httpsexplwzone-or-httpselwzone">Jatos： &lt;a href="https://exp.lwz.one" target="_blank" rel="noopener">https://exp.lwz.one&lt;/a> or &lt;a href="https://e.lwz.one" target="_blank" rel="noopener">https://e.lwz.one&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>jspsych 托管平台；用户名与密码进群询问；平台不稳定数据需及时下载。对应两种内网穿透方案，一个不能用时可以先试另一个。两个都不能用，及时切换到下面的容灾备份方案。&lt;/li>
+&lt;/ul>
+&lt;h3 id="线上会议-httpsmeetlinwzcom">线上会议： &lt;a href="https://meet.linwz.com" target="_blank" rel="noopener">https://meet.linwz.com&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>线上会议使用，第一次加载时间会比较久，主持人向老师索要账号密码&lt;/li>
+&lt;/ul>
+&lt;h3 id="limesurvey-httpssurveylwzoneadmin">Limesurvey： &lt;a href="https://survey.lwz.one/admin" target="_blank" rel="noopener">https://survey.lwz.one/admin&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>问卷收集平台；用户名与密码进群询问.&lt;/li>
+&lt;/ul>
+&lt;h3 id="rstudio-httpsrlwzone">Rstudio: &lt;a href="https://r.lwz.one" target="_blank" rel="noopener">https://r.lwz.one&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>R+Rstudio的线上版本；推荐使用本地版本。&lt;/li>
+&lt;/ul>
+&lt;h3 id="zotero-group-library-social-cognition-and-personality-labhttpswwwzoteroorggroups4978054lwz-social_cognition_and_personality_lab">Zotero group library: &lt;a href="https://www.zotero.org/groups/4978054/lwz-social_cognition_and_personality_lab" target="_blank" rel="noopener">Social cognition and personality lab&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>文献库共享&lt;/li>
+&lt;/ul>
+&lt;h3 id="短网址生成-httpslwzone">短网址生成： &lt;a href="https://lwz.one" target="_blank" rel="noopener">https://lwz.one&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>做实验如需生成短链接，可使用本系统；具体使用方法请联系老师。&lt;/li>
+&lt;/ul>
+&lt;h3 id="容灾备份">容灾备份&lt;/h3>
+&lt;ul>
+&lt;li>网盘： &lt;a href="https://disk.lwz.one" target="_blank" rel="noopener">https://disk.lwz.one&lt;/a>&lt;/li>
+&lt;li>Jatos: &lt;a href="https://lab.lwz.one" target="_blank" rel="noopener">https://lab.lwz.one&lt;/a> or &lt;a href="https://l.lwz.one" target="_blank" rel="noopener">https://l.lwz.one&lt;/a>&lt;/li>
+&lt;li>另一地点做的服务器，网盘内容增量同步，内容相同（会有几分钟延迟）。Jatos 数据不同步，建议使用jatos的同学可以把程序复制一份在lab这个平台上，以防exp的临时出现问题。&lt;/li>
+&lt;li>总的来说，不推荐主要使用上述两个网址。但是当主服务器出现问题，又急需使用网盘和jatos的话，可以临时使用。&lt;/li>
+&lt;/ul>
+&lt;h3 id="课程资料测试">课程资料（测试）&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.linwz.com/resources/statistics/index.html">统计&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
