@@ -2674,7 +2674,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-579623148" class="chart">&lt;/div>
+&lt;div id="chart-295178364" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -2683,7 +2683,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-579623148', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-295178364', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -3007,7 +3007,7 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>The procrastinators want it now: Behavioral and event-related potential evidence of the procrastination of intertemporal choices</title><link>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</link><pubDate>Thu, 07 Jul 2016 13:13:48 +0000</pubDate><guid>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</guid><description/></item><item><title>test html embed</title><link>https://www.linwz.com/resources/statistics/chap2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.linwz.com/resources/statistics/chap2/</guid><description>
+&lt;p>&lt;a href="https://docs.hugoblox.com/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>The procrastinators want it now: Behavioral and event-related potential evidence of the procrastination of intertemporal choices</title><link>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</link><pubDate>Thu, 07 Jul 2016 13:13:48 +0000</pubDate><guid>https://www.linwz.com/publication/the-procrastinators-want-it-now-behavioral-and-event-related-potential-evidence-of-the-procrastination-of-intertemporal-choices/</guid><description/></item><item><title/><link>https://www.linwz.com/resources/statistics/chap2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.linwz.com/resources/statistics/chap2/</guid><description>
 &lt;!DOCTYPE html>
 &lt;html>
 &lt;head>
