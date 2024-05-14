@@ -215,19 +215,16 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>&lt;a href="https://www.linwz.com/resources/">第一章&lt;/a>&lt;/p></description></item><item><title>加入我们</title><link>https://www.linwz.com/joinus/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://www.linwz.com/joinus/</guid><description>&lt;p>本实验室仅建议对学术有兴趣的研究生与本科生在&lt;em>慎重考虑&lt;/em>后加入团队。&lt;/p>
 &lt;p>实验室线下地点：江西师范大学&lt;/p>
 &lt;p>联系邮箱： &lt;a href="lin.wenzheng@aliyun.com">lin.wenzheng@aliyun.com&lt;/a>&lt;/p>
-&lt;p>如果阿里云邮箱不可用，可尝试发 &lt;a href="psywzlin@gmail.com">psywzlin@gmail.com&lt;/a>&lt;/p>
+&lt;p>如果阿里云邮箱出现邮件拒收，可发 &lt;a href="psywzlin@gmail.com">psywzlin@gmail.com&lt;/a>&lt;/p>
 &lt;p>邮件内容请尽量简短，写明姓名、本科院校（研究生）、年级班级（本科生）等基本信息与联系目的即可。可以不写你对于心理学、研究方向的想法与感悟。如有简历，可附上，简历内容尽量包含已修课程、英语成绩、学术技能（编程语言、数据分析等）等。&lt;/p>
 &lt;p>实验室研究领域和兴趣可参考&lt;a href="https://www.linwz.com/#about" target="_blank" rel="noopener">主页&lt;/a>。&lt;/p>
 &lt;h1 id="研究生招募">研究生招募&lt;/h1>
 &lt;h3 id="要求">要求&lt;/h3>
 &lt;ul>
-&lt;li>地球人（正常）&lt;/li>
-&lt;li>有编程能力者优先（统计R语言及实验程序使用jspsych/初级javascript）&lt;/li>
+&lt;li>有编程能力者优先（实验室统计使用R语言及实验程序大部分使用jspsych）&lt;/li>
 &lt;li>英语能力优秀者优先&lt;/li>
-&lt;li>加分项：拥有其他人类美好品质如&lt;em>谦逊&lt;/em>、善良、乐观、勤奋、乐于助人等&lt;/li>
-&lt;li>扣分项：不遵守 dead line；把老师的话当耳旁风&lt;/li>
 &lt;/ul>
-&lt;h3 id="学习工作说明">学习工作说明&lt;/h3>
+&lt;h3 id="学习工作说明期望">学习工作说明（期望）&lt;/h3>
 &lt;ul>
 &lt;li>相对来说学术任务会更重一些&lt;/li>
 &lt;li>研一期间学期内要求每周至少汇报一篇英文文献&lt;/li>
@@ -240,17 +237,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;h1 id="本科生招募">本科生招募&lt;/h1>
 &lt;ul>
-&lt;li>基础要求同研究生&lt;/li>
-&lt;li>希望大家从大一大二时就参加例会和实验室研究，积累研究经历和成果&lt;/li>
-&lt;li>优先接收非毕业年级同学指导毕业论文，于大三下学期（双专业同学为大三上）之前完成数据收集&lt;/li>
+&lt;li>对社会、管理、经济心理学研究感兴趣&lt;/li>
+&lt;li>希望从大一大二时就能尽快初步开展研究&lt;/li>
 &lt;/ul>
 &lt;h2 id="福利">福利&lt;/h2>
 &lt;ul>
-&lt;li>基本等于没有；偶尔会一起吃吃喝喝&lt;/li>
-&lt;li>可以和该老师吵架&lt;/li>
-&lt;li>该老师目前是一个品德正直的人&lt;/li>
-&lt;li>组内人际氛围相对比较轻松&lt;/li>
-&lt;li>如果同学们能带老师申上国家级基金，就应该有劳务费等经费支持了&lt;/li>
+&lt;li>无&lt;/li>
 &lt;/ul>
 &lt;h2 id="示警">示警&lt;/h2>
 &lt;ul>
@@ -446,7 +438,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-426918753" class="chart">&lt;/div>
+&lt;div id="chart-865392741" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -455,7 +447,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-426918753', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-865392741', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
